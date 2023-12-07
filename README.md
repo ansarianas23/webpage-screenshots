@@ -3,6 +3,7 @@
 
 1. Swiggy
 
-[home page [MConverter.eu].webm](https://github.com/ansarianas23/webpage-screenshots/assets/111463267/bf33bc5a-f17e-473e-ad27-7aca1ef5f27d)
+![swiggy-clone-home-page](https://github.com/ansarianas23/webpage-screenshots/assets/111463267/1c8fd75f-1122-468c-aeb7-bf95254b9d87)
+
 
 
